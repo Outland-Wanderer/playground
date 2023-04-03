@@ -7,3 +7,7 @@ banana
 boys
 
 canary
+
+decade
+
+explore
