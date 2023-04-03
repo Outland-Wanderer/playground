@@ -2,10 +2,8 @@
 
 ability
 
-about
-
 banana
 
-boy
+boys
 
 canary
